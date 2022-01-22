@@ -1,3 +1,4 @@
+/*this program is to reverse an array using recursive function calls*/
 #include<iostream>
 #include<string>
 
