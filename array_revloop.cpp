@@ -1,3 +1,4 @@
+/*This program is to reverse the elements of an array using loop*/
 #include <iostream>
 using namespace std;
 
