@@ -13,7 +13,7 @@ void rev_array(int arr[],int start,int end)
     }
     t = arr[start];
     arr[start] = arr[end];
-    arr[end] = t;
+    arr[end] = xyz;
     start++;
     end--;
     rev_array(arr, start, end);
